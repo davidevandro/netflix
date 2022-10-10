@@ -5,7 +5,6 @@
 * [Description](#description)
 * [Features](#features)
 * [Technologies](#technologies)
-* [Layout](#layout)
 * [How to Use](#how-to-use)
 * [Acknowledgements](#acknowlegments)
 * [License](#license)
@@ -27,6 +26,16 @@ It allows you to navigate through the films scrolling laterally like in Netflix 
 
 ## How to Use
 
+You can access the live page [here](https://davidevandro.github.io/netflix/).
+
+To clone and run this application, you'll need to install [Git](https://git-scm.com). Furthermore, it's recomended that you have a good editor to code like [VSCode](https://code.visualstudio.com/).
+
+From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/davidevandro/netflix netflix
+```
 
 ## Acknowlegments
 
