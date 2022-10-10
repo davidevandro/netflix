@@ -17,12 +17,13 @@ It allows you to navigate through the films scrolling laterally like in Netflix 
 ## Features
 
 - [x] Scroll films like caroussel
-- [x] Add responsivity (< 700px, > 1000px)
+- [x] Responsivity (< 700px, > 1000px)
 
 ## Technologies
 
 - [x] [jQuery](https://reactnative.dev/)
 - [x] [Owl](https://www.typescriptlang.org/)
+- [x] Media Queries
 
 ## How to Use
 
