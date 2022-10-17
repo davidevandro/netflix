@@ -47,7 +47,7 @@ This project is under license [MIT](https://github.com/davidevandro/gameplay/blo
 
 <div align="center">
 
-Developed by David Martins - June/2021
+Developed by David Martins - September/2020
 
 [<img src="https://img.shields.io/static/v1?label= &message=David Evandro Amorim Martins&color=blue&logo=linkedin&link=https://www.linkedin.com/in/david-evandro-martins/"/>](https://www.linkedin.com/in/david-evandro-martins/)
 
