@@ -43,7 +43,7 @@ $ git clone https://github.com/davidevandro/netflix netflix
 
 ## License
 
-This project is under license [MIT](https://github.com/davidevandro/gameplay/blob/main/LICENSE).
+This project is under license [MIT](https://github.com/davidevandro/netflix/blob/master/LICENSE).
 
 <div align="center">
 
