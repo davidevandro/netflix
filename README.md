@@ -40,6 +40,7 @@ $ git clone https://github.com/davidevandro/netflix netflix
 
 ## Acknowlegments
 
+This project was developed during a course from Digital Innovation One [https://www.dio.me/].
 
 ## License
 
