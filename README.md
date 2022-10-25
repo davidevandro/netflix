@@ -6,7 +6,7 @@
 * [Features](#features)
 * [Technologies](#technologies)
 * [How to Use](#how-to-use)
-* [Acknowledgements](#acknowlegments)
+* [Acknowledgements](#acknowledgements)
 * [License](#license)
 
 ## Description
@@ -38,9 +38,9 @@ From your command line:
 $ git clone https://github.com/davidevandro/netflix netflix
 ```
 
-## Acknowlegments
+## Acknowledgements
 
-This project was developed during a course from Digital Innovation One [https://www.dio.me/].
+This project was developed during a course from [Digital Innovation One](https://www.dio.me/).
 
 ## License
 
